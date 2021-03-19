@@ -3,7 +3,7 @@
    - Visit the wiki page of each song from billboard
      to track its YouTube link
      
-2. [iPhone slogan](iPhone_slogan/iPhone_Slogan_from_Wikipedia.ipynb) 
+2. [iPhone slogan](iPhone_slogan/iPhone_slogan_from_Wikipedia.ipynb) 
    - Visit the wiki page of each generation of iPhone 
      to find its slogan  
 
